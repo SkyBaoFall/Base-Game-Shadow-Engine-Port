@@ -1,0 +1,147 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "monster idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				35
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "monster up note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-11
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Monster left note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				30
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Monster Right note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-110
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "monster down"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "monster idle",
+			"indices": [
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-30,
+				20
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Monster left note",
+			"indices": [10,11,12,13]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				34
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "monster up note",
+			"indices": [
+				21,
+				22,
+				23
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-51,
+				30
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Monster Right note",
+			"indices": [7,8,9,10]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				-110
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "monster down",
+			"indices": [
+				27,
+				28,
+				29
+			]
+		}
+	],
+	"vocals_file": "monster",
+	"no_antialiasing": false,
+	"image": "characters/monster",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
