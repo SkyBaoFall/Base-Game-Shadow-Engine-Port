@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"pico",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"philly-nice",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blammed",
+			"pico",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard, Erect, Nightmare",
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"storyName": "PICO",
+	"weekName": "pico",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Week2",
+	"startUnlocked": true
+}

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"cocoa",
+			"parents",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"eggnog",
+			"parents",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"winter-horrorland",
+			"monster",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard, Erect, Nightmare",
+	"weekCharacters": [
+		"parents-xmas",
+		"bf",
+		"gf"
+	],
+	"storyName": "RED SNOW",
+	"weekName": "redsnow",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "Week4",
+	"startUnlocked": true
+}

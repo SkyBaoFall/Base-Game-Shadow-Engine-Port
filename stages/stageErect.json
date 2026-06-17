@@ -1,0 +1,25 @@
+{
+  "directory": "",
+  "defaultZoom": 0.9,
+  "stageUI": "",
+
+  "boyfriend": [747.5, 130],
+  "girlfriend": [180, 180],
+  "opponent": [-250, 110],
+  "hide_girlfriend": false,
+  "camera_girlfriend": [-150, 50],
+  "camera_speed": 1,
+
+  "preload": {
+    "images/stages/week1/erect/backDark": 3,
+    "images/stages/week1/erect/crowd": 2,
+    "images/stages/week1/erect/brightLightSmall": 2,
+    "images/stages/week1/erect/bg": 3,
+    "images/stages/week1/erect/server": 3,
+    "images/stages/week1/erect/lightgreen": 2,
+    "images/stages/week1/erect/lightred": 2,
+    "images/stages/week1/erect/orangeLight": 2,
+    "images/stages/week1/erect/lights": 3,
+    "images/stages/week1/erect/lightAbove": 2
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "directory": "",
+  "defaultZoom": 0.9,
+  "stageUI": "",
+
+  "boyfriend": [770, 120],
+  "girlfriend": [400, 130],
+  "opponent": [0, 80],
+  "hide_girlfriend": false,
+
+  "camera_boyfriend": [0, 0],
+  "camera_opponent": [0, 0],
+  "camera_girlfriend": [0, 0],
+  "camera_speed": 1,
+
+  "preload": {
+    "images/stages/week1/stageback": 3,
+    "images/stages/week1/stagefront": 3,
+    "images/stages/week1/stagecurtains": 2,
+    "images/stages/week1/stage_light": 2
+  }
+}

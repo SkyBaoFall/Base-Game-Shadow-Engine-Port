@@ -1,0 +1,13 @@
+{
+	"defaultZoom": 1.1,
+	"boyfriend": [870.5, 100],
+	"girlfriend": [400.5, 150],
+	"opponent": [200, 100],
+	"hide_girlfriend": false,
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+	"preload": {
+		"images": "stages/philly/particle"
+  }
+}
